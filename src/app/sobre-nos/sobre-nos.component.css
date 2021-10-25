@@ -1,5 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari,latin-ext');
+ 
+.fonte {
+     font-family: 'Poppins', sans-serif;
+     
+ }.fs{
+  font-size: 15pt;
+  }
+  
+  .ti{
+  width: 170px;
+  height: 160px;
+  }
+  
+  .ti2{
+  width: 1000px;
+  height: 400px;
+  }
+
+
+
+
 .divPrincipal {
     height: 800px;
+    
 }
   .imgODS {
     display: block;
@@ -171,7 +194,22 @@ height: 1000px;
   border-radius: 50%;
 }
 
+.ti{
+  width: 130px;
+  height: 130px;
+}
 
+.br-30 {
+  border-radius: 30%;
+}
+
+.hr{
+  margin-top: 1rem;
+  text-align: center;
+  padding: 1rem 0 0 0;
+  border-bottom: 5px solid #97c9e8;
+
+}
 
 
 
